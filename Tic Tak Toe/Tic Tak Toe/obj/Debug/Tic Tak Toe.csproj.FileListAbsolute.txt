@@ -1,0 +1,10 @@
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.exe.config
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.exe
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.pdb
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic_Tak_Toe.Form1.resources
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic_Tak_Toe.Properties.Resources.resources
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.exe
+C:\Users\yigit\source\repos\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.pdb
